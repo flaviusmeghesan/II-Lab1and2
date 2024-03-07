@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\relik\\Documents\\repos\\II-Lab1and2\\Laboratory1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34E06ED6-5377-4B7A-A92F-2E75ECF004D6}|Laboratory1\\Laboratory1.csproj|c:\\users\\relik\\documents\\repos\\ii-lab1and2\\laboratory1\\laboratory1\\exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E06ED6-5377-4B7A-A92F-2E75ECF004D6}|Laboratory1\\Laboratory1.csproj|solutionrelative:laboratory1\\exercise3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E06ED6-5377-4B7A-A92F-2E75ECF004D6}|Laboratory1\\Laboratory1.csproj|c:\\users\\relik\\documents\\repos\\ii-lab1and2\\laboratory1\\laboratory1\\exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E06ED6-5377-4B7A-A92F-2E75ECF004D6}|Laboratory1\\Laboratory1.csproj|solutionrelative:laboratory1\\exercise1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34E06ED6-5377-4B7A-A92F-2E75ECF004D6}|Laboratory1\\Laboratory1.csproj|c:\\users\\relik\\documents\\repos\\ii-lab1and2\\laboratory1\\laboratory1\\exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34E06ED6-5377-4B7A-A92F-2E75ECF004D6}|Laboratory1\\Laboratory1.csproj|solutionrelative:laboratory1\\exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise3.cs",
+              "DocumentMoniker": "C:\\Users\\relik\\Documents\\repos\\II-Lab1and2\\Laboratory1\\Laboratory1\\Exercise3.cs",
+              "RelativeDocumentMoniker": "Laboratory1\\Exercise3.cs",
+              "ToolTip": "C:\\Users\\relik\\Documents\\repos\\II-Lab1and2\\Laboratory1\\Laboratory1\\Exercise3.cs",
+              "RelativeToolTip": "Laboratory1\\Exercise3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T21:17:28.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercise2.cs",
+              "DocumentMoniker": "C:\\Users\\relik\\Documents\\repos\\II-Lab1and2\\Laboratory1\\Laboratory1\\Exercise2.cs",
+              "RelativeDocumentMoniker": "Laboratory1\\Exercise2.cs",
+              "ToolTip": "C:\\Users\\relik\\Documents\\repos\\II-Lab1and2\\Laboratory1\\Laboratory1\\Exercise2.cs",
+              "RelativeToolTip": "Laboratory1\\Exercise2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T21:16:30.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercise1.cs",
+              "DocumentMoniker": "C:\\Users\\relik\\Documents\\repos\\II-Lab1and2\\Laboratory1\\Laboratory1\\Exercise1.cs",
+              "RelativeDocumentMoniker": "Laboratory1\\Exercise1.cs",
+              "ToolTip": "C:\\Users\\relik\\Documents\\repos\\II-Lab1and2\\Laboratory1\\Laboratory1\\Exercise1.cs",
+              "RelativeToolTip": "Laboratory1\\Exercise1.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAuwBcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T20:25:44.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

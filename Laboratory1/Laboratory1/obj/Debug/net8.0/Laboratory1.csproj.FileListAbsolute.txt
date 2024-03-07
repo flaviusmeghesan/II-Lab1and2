@@ -1,0 +1,15 @@
+C:\Users\relik\Documents\repos\II-Lab1and2\Laboratory1\Laboratory1\bin\Debug\net8.0\Laboratory1.exe
+C:\Users\relik\Documents\repos\II-Lab1and2\Laboratory1\Laboratory1\bin\Debug\net8.0\Laboratory1.deps.json
+C:\Users\relik\Documents\repos\II-Lab1and2\Laboratory1\Laboratory1\bin\Debug\net8.0\Laboratory1.runtimeconfig.json
+C:\Users\relik\Documents\repos\II-Lab1and2\Laboratory1\Laboratory1\bin\Debug\net8.0\Laboratory1.dll
+C:\Users\relik\Documents\repos\II-Lab1and2\Laboratory1\Laboratory1\bin\Debug\net8.0\Laboratory1.pdb
+C:\Users\relik\Documents\repos\II-Lab1and2\Laboratory1\Laboratory1\obj\Debug\net8.0\Laboratory1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\relik\Documents\repos\II-Lab1and2\Laboratory1\Laboratory1\obj\Debug\net8.0\Laboratory1.AssemblyInfoInputs.cache
+C:\Users\relik\Documents\repos\II-Lab1and2\Laboratory1\Laboratory1\obj\Debug\net8.0\Laboratory1.AssemblyInfo.cs
+C:\Users\relik\Documents\repos\II-Lab1and2\Laboratory1\Laboratory1\obj\Debug\net8.0\Laboratory1.csproj.CoreCompileInputs.cache
+C:\Users\relik\Documents\repos\II-Lab1and2\Laboratory1\Laboratory1\obj\Debug\net8.0\Laboratory1.sourcelink.json
+C:\Users\relik\Documents\repos\II-Lab1and2\Laboratory1\Laboratory1\obj\Debug\net8.0\Laboratory1.dll
+C:\Users\relik\Documents\repos\II-Lab1and2\Laboratory1\Laboratory1\obj\Debug\net8.0\refint\Laboratory1.dll
+C:\Users\relik\Documents\repos\II-Lab1and2\Laboratory1\Laboratory1\obj\Debug\net8.0\Laboratory1.pdb
+C:\Users\relik\Documents\repos\II-Lab1and2\Laboratory1\Laboratory1\obj\Debug\net8.0\Laboratory1.genruntimeconfig.cache
+C:\Users\relik\Documents\repos\II-Lab1and2\Laboratory1\Laboratory1\obj\Debug\net8.0\ref\Laboratory1.dll
