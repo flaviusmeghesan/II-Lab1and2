@@ -1,0 +1,17 @@
+C:\Users\relik\Documents\repos\II-Lab1and2\L2Ex3\L2Ex3\bin\Debug\net8.0-windows\L2Ex3.exe
+C:\Users\relik\Documents\repos\II-Lab1and2\L2Ex3\L2Ex3\bin\Debug\net8.0-windows\L2Ex3.deps.json
+C:\Users\relik\Documents\repos\II-Lab1and2\L2Ex3\L2Ex3\bin\Debug\net8.0-windows\L2Ex3.runtimeconfig.json
+C:\Users\relik\Documents\repos\II-Lab1and2\L2Ex3\L2Ex3\bin\Debug\net8.0-windows\L2Ex3.dll
+C:\Users\relik\Documents\repos\II-Lab1and2\L2Ex3\L2Ex3\bin\Debug\net8.0-windows\L2Ex3.pdb
+C:\Users\relik\Documents\repos\II-Lab1and2\L2Ex3\L2Ex3\obj\Debug\net8.0-windows\L2Ex3.Form1.resources
+C:\Users\relik\Documents\repos\II-Lab1and2\L2Ex3\L2Ex3\obj\Debug\net8.0-windows\L2Ex3.csproj.GenerateResource.cache
+C:\Users\relik\Documents\repos\II-Lab1and2\L2Ex3\L2Ex3\obj\Debug\net8.0-windows\L2Ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\relik\Documents\repos\II-Lab1and2\L2Ex3\L2Ex3\obj\Debug\net8.0-windows\L2Ex3.AssemblyInfoInputs.cache
+C:\Users\relik\Documents\repos\II-Lab1and2\L2Ex3\L2Ex3\obj\Debug\net8.0-windows\L2Ex3.AssemblyInfo.cs
+C:\Users\relik\Documents\repos\II-Lab1and2\L2Ex3\L2Ex3\obj\Debug\net8.0-windows\L2Ex3.csproj.CoreCompileInputs.cache
+C:\Users\relik\Documents\repos\II-Lab1and2\L2Ex3\L2Ex3\obj\Debug\net8.0-windows\L2Ex3.sourcelink.json
+C:\Users\relik\Documents\repos\II-Lab1and2\L2Ex3\L2Ex3\obj\Debug\net8.0-windows\L2Ex3.dll
+C:\Users\relik\Documents\repos\II-Lab1and2\L2Ex3\L2Ex3\obj\Debug\net8.0-windows\refint\L2Ex3.dll
+C:\Users\relik\Documents\repos\II-Lab1and2\L2Ex3\L2Ex3\obj\Debug\net8.0-windows\L2Ex3.pdb
+C:\Users\relik\Documents\repos\II-Lab1and2\L2Ex3\L2Ex3\obj\Debug\net8.0-windows\L2Ex3.genruntimeconfig.cache
+C:\Users\relik\Documents\repos\II-Lab1and2\L2Ex3\L2Ex3\obj\Debug\net8.0-windows\ref\L2Ex3.dll
