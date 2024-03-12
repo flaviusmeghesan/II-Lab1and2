@@ -32,11 +32,11 @@
             result = new TextBox();
             number1 = new TextBox();
             menuStrip1 = new MenuStrip();
+            toolStripTextBox1 = new ToolStripTextBox();
             toolStripMenuItem1 = new ToolStripMenuItem();
             toolStripMenuItem2 = new ToolStripMenuItem();
             toolStripMenuItem3 = new ToolStripMenuItem();
             toolStripMenuItem4 = new ToolStripMenuItem();
-            toolStripTextBox1 = new ToolStripTextBox();
             menuStrip1.SuspendLayout();
             SuspendLayout();
             // 
@@ -73,6 +73,13 @@
             menuStrip1.TabIndex = 3;
             menuStrip1.Text = "menuStrip1";
             // 
+            // toolStripTextBox1
+            // 
+            toolStripTextBox1.Name = "toolStripTextBox1";
+            toolStripTextBox1.Size = new Size(100, 31);
+            toolStripTextBox1.Text = "operations";
+            toolStripTextBox1.Click += toolStripTextBox1_Click;
+            // 
             // toolStripMenuItem1
             // 
             toolStripMenuItem1.Name = "toolStripMenuItem1";
@@ -92,19 +99,14 @@
             toolStripMenuItem3.Name = "toolStripMenuItem3";
             toolStripMenuItem3.Size = new Size(35, 31);
             toolStripMenuItem3.Text = "/";
+            toolStripMenuItem3.Click += toolStripMenuItem3_Click;
             // 
             // toolStripMenuItem4
             // 
             toolStripMenuItem4.Name = "toolStripMenuItem4";
             toolStripMenuItem4.Size = new Size(36, 31);
             toolStripMenuItem4.Text = "*";
-            // 
-            // toolStripTextBox1
-            // 
-            toolStripTextBox1.Name = "toolStripTextBox1";
-            toolStripTextBox1.Size = new Size(100, 31);
-            toolStripTextBox1.Text = "operations";
-            toolStripTextBox1.Click += toolStripTextBox1_Click;
+            toolStripMenuItem4.Click += toolStripMenuItem4_Click;
             // 
             // Form1
             // 

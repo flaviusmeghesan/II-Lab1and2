@@ -20,16 +20,39 @@ namespace L2Ex3
         {
             float nr1 = getNr1();
             float nr2 = getNr2();
-            float result = nr1 - nr2;
+            float res = nr1 - nr2;
+            result.Text = res.ToString();
+
         }
 
         private void toolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            float result = nr1 * nr2;
+            float nr1 = getNr1();
+            float nr2 = getNr2();
+            float res = nr1 + nr2;
+            result.Text = res.ToString();
         }
 
         private void toolStripTextBox1_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void toolStripMenuItem3_Click(object sender, EventArgs e)
+        {
+            float nr1 = getNr1();
+            float nr2 = getNr2();
+            float res = nr1 / nr2;
+            result.Text = res.ToString();
+
+        }
+
+        private void toolStripMenuItem4_Click(object sender, EventArgs e)
+        {
+            float nr1 = getNr1();
+            float nr2 = getNr2();
+            float res = nr1 * nr2;
+            result.Text = res.ToString();
 
         }
     }

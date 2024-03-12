@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\relik\\Documents\\repos\\II-Lab1and2\\L2Ex4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3A48841A-0523-4D07-9C19-9635B4344A94}|L2Ex4\\L2Ex4.csproj|C:\\Users\\relik\\Documents\\repos\\II-Lab1and2\\L2Ex4\\l2ex4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3A48841A-0523-4D07-9C19-9635B4344A94}|L2Ex4\\L2Ex4.csproj|solutionrelative:l2ex4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3A48841A-0523-4D07-9C19-9635B4344A94}|L2Ex4\\L2Ex4.csproj|c:\\users\\relik\\documents\\repos\\ii-lab1and2\\l2ex4\\l2ex4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A48841A-0523-4D07-9C19-9635B4344A94}|L2Ex4\\L2Ex4.csproj|solutionrelative:l2ex4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A48841A-0523-4D07-9C19-9635B4344A94}|L2Ex4\\L2Ex4.csproj|c:\\users\\relik\\documents\\repos\\ii-lab1and2\\l2ex4\\l2ex4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{3A48841A-0523-4D07-9C19-9635B4344A94}|L2Ex4\\L2Ex4.csproj|solutionrelative:l2ex4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A48841A-0523-4D07-9C19-9635B4344A94}|L2Ex4\\L2Ex4.csproj|c:\\users\\relik\\documents\\repos\\ii-lab1and2\\l2ex4\\l2ex4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3A48841A-0523-4D07-9C19-9635B4344A94}|L2Ex4\\L2Ex4.csproj|C:\\Users\\relik\\Documents\\repos\\II-Lab1and2\\L2Ex4\\l2ex4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A48841A-0523-4D07-9C19-9635B4344A94}|L2Ex4\\L2Ex4.csproj|solutionrelative:l2ex4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -40,20 +40,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\relik\\Documents\\repos\\II-Lab1and2\\L2Ex4\\L2Ex4\\Form1.cs",
               "RelativeDocumentMoniker": "L2Ex4\\Form1.cs",
               "ToolTip": "C:\\Users\\relik\\Documents\\repos\\II-Lab1and2\\L2Ex4\\L2Ex4\\Form1.cs",
               "RelativeToolTip": "L2Ex4\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwEgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T13:36:28.516Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\relik\\Documents\\repos\\II-Lab1and2\\L2Ex4\\L2Ex4\\Form1.cs",
               "RelativeDocumentMoniker": "L2Ex4\\Form1.cs",
