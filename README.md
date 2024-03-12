@@ -7,7 +7,7 @@ Laboratory 1 and 2 work for Industrial Informatics **@UTCN**\
 **Exercise 4**: Calculate the ideal weight (kg) based on height (cm), age (years), and gender (f or m). Create a new class containing three methods: two for calculating weight and one for displaying the ideal weight using the formulas below. Parameters are read from the keyboard.\
 **Exercise 5**: Enter a string of integers from the keyboard and calculate the geometric and arithmetic mean of the numbers.\
 \
-**Laboratory2:**\
+**Laboratory 2:**\
 **Exercise 1**: I've created a Windows Form project that includes a login (a username and a password read from a file), and upon pressing a button, a new form opens. The second form contains a label "Hello username" and an Exit button.\
 **Exercise 2**: I've created a Windows Form project according to the figure below. The first listBox reads objects from a file, and then the selected objects are copied to the second listBox. The Delete button allows deleting objects from the second listBox.\
 **Exercise 3**: I've created a calculator that contains three textBoxes (two of them are used for entering numbers, and the third one is for displaying the result) and a menu (MenuStrip) that contains binary operators.\
